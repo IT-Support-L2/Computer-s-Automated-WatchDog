@@ -1,4 +1,4 @@
-# Computer-s-Watch_Dog-Automation
+# Computer's Automated WatchDog
 Automated Computer Health Check's WatchDog 
 
 
