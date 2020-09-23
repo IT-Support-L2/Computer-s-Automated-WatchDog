@@ -16,7 +16,7 @@ def health_check():
 #Warning if CPU usage is over 80%.
   def cpu_check():
     cpu_usage = psutil.cpu_percent() 
-    return not cpu_usage > 80
+    return cpu_usage < 80
 
   
 #Warning if available disk space is lower than 20%.
