@@ -2,9 +2,8 @@
 
 import email.message
 import mimetypes
-import os.path
 import smtplib
-import getpass
+
 
 def generate_email(sender, receiver, subject, body):
   """Generate email without attachment"""
