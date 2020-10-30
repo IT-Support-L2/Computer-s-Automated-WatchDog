@@ -7,3 +7,7 @@ The script will check every minute with 1 second sleep: - CPU usage
                                                         - Available memory
                                     
 If CPU usage is greater than 80% or Disk Space is less than 20% or Available Memory is less than 500MB: The on-site sys-admin will be notified with screen pop-up notification and an alerting email will be automatically sent to the off-site sys-admin.
+
+
+I am working on transforming this code into useful software to use. I am also implementing new features. Here's an overview
+
