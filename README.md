@@ -11,7 +11,7 @@ If CPU usage is greater than 80% or Disk Space is less than 20% or Available Mem
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Starting from 15 October 2020, I am working on transforming this code into useful software to use by implementing nice looking GUI. I am also implementing new features such as bandwith test, latency test, ping test and automated pdf report sent automatically by email. Here's an overview.
+Actually, I am working on transforming this code into useful software to use by implementing nice looking GUI. I am also implementing new features such as bandwith test, latency test, ping test and automated pdf report sent automatically by email when the condition is met. Here's an overview.
 
 
 ![system watchdog.gif](https://github.com/IT-Support-L2/Computer-s-Automated-WatchDog/blob/master/system%20watchdog.gif)
